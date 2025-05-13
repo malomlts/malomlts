@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @malomlts
-- 👀 I’m interested in web developpment
-- 🌱 I’m currently learning Javascript and C++
-- 💞️ I’m looking to collaborate on simple websites
-- 📫 How to reach me ? You dont need 
-- ⚡ Fun fact: I'm busy
+- 👀 I’m interested in web developpment, informatics and Linux Debian based
+- 🌱 I’m currently learning Javascript, C++ and Linux 
 
 <!---
 malomlts/malomlts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
