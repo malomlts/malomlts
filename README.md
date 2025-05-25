@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @malomlts
-- 👀 I’m interested in web developpment, informatics and Linux Debian based
-- 🌱 I’m currently learning Javascript, C++ and Linux 
+- 👀 I’m interested in web developpment, informatic, hackintosh and Linux Debian based
+- I'm a young Parisian student, hope you will like my content !
+
 
 <!---
 malomlts/malomlts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
